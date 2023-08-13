@@ -1,0 +1,19 @@
+Summary: 
+Severity: 
+Component: 
+FixVersion: 
+Priority: 
+Status: 
+Author:
+Reporter: 
+Assigned To: 
+Description: 
+Steps to reproduce: 
+    Step1: 
+  Result: 
+  Attachment: 
+  Expected Result:
+  Environment:
+  Browser:
+  System:
+   
